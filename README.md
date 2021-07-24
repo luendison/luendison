@@ -39,7 +39,7 @@ E estou me capacitando pela @Udemy/@Rocketseat/@b7web para me tornar um <b>Desen
   - Jogar Dota e outros jogos online;
 - 💬 Fique a vontade para me chamar, ficarei muito feliz em poder ajudar;
 - 📫 Se quiser pode enviar um email para luendison@gmail.com.
-- 📝 Veja meu <a href="https://drive.google.com/file/d/1Bpaj349XlLLYHCVUsrIdt15Y-JP_tR57/view?usp=drivesdk" target="_blank">Currículo</a> para mais informações.
+- 📝 Veja meu <a href="https://drive.google.com/file/d/1ReGR10LDI-krtOfNSRrkFWz1ltx7AW6i/view?usp=sharing" target="_blank">Currículo</a> para mais informações.
 
 
 <p>
