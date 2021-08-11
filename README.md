@@ -30,7 +30,7 @@ E estou me capacitando pela @Udemy/@Rocketseat/@b7web para me tornar um <b>Desen
 
 <img align="right" alt="GIF" src="https://octocat-generator-assets.githubusercontent.com/my-octocat-1627155034207.png" width="400px" />
 
-- 👩‍💻 Estou estudando backend com **MySQL**, e utilizando o framework **Node.js**;
+- 👩‍💻 Estou estudando backend com **Node.js**, e tambem o framework **Angular**;
 - 💼 Sou aficionado por tecnologia, por este motivo estou sempre estudando e evoluindo na minha carreira;
 - 👾 Meus hobbies são: 
   - Acompanhar as noticias do mundo da tecnologia; 
